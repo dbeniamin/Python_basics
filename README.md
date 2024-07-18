@@ -12,6 +12,12 @@ Explore the code examples to understand key Python basics.
 2. Navigate to each Python file in the root directory to explore the code examples.
 3. Modify and experiment with the code to deepen your understanding of Python basics.
 
+
+## Changelog
+
+A few updated scripts with examples and comments will follow. The files will have the 00-05 notation.
+The purpose is to brush up on the basics, mastering the basis is the key to progression.
+
 ## Contributing
 
 If you have additional examples, improvements, or corrections, feel free to contribute! Fork this repository, make your changes, and submit a pull request.
