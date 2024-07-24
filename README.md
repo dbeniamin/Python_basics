@@ -19,6 +19,7 @@ A few updated scripts with examples and comments will follow. The files will hav
 The purpose is to brush up on the basics, mastering the basis is the key to progression.
 
 00_python_basics.py - contains several basic syntax usage and breakdown
+01_fortune_cookie.py - contains aplication of the basic principles like range, random, input, type conversion
 
 ## Contributing
 
