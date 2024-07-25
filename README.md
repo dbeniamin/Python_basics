@@ -18,8 +18,8 @@ Explore the code examples to understand key Python basics.
 A few updated scripts with examples and comments will follow. The files will have the 00-05 notation.
 The purpose is to brush up on the basics, mastering the basis is the key to progression.
 
-00_python_basics.py - contains several basic syntax usage and breakdown
-01_fortune_cookie.py - contains aplication of the basic principles like range, random, input, type conversion
+**00_python_basics.py** - contains several basic syntax usage and breakdown
+**01_fortune_cookie.py** - contains aplication of the basic principles like range, random, input, type conversion
 
 ## Contributing
 
