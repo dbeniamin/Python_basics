@@ -20,6 +20,8 @@ The purpose is to brush up on the basics, mastering the basis is the key to prog
 
 - **00_python_basics.py** - contains several basic syntax usage and breakdown
 - **01_fortune_cookie.py** - contains aplication of the basic principles like range, random, input, type conversion
+- **02_list_loops_dicts.py** - syntax and manipulations for lists, loops, dictionaries.
+- **03_word_counter.py** - cointains a word counter script that uses the basic principles touched in the repo.
 
 ## Contributing
 
