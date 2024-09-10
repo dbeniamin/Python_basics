@@ -19,9 +19,10 @@ A few updated scripts with examples and comments will follow. The files will hav
 The purpose is to brush up on the basics, mastering the basis is the key to progression.
 
 - **00_python_basics.py** - contains several basic syntax usage and breakdown
-- **01_fortune_cookie.py** - contains aplication of the basic principles like range, random, input, type conversion
+- **01_fortune_cookie.py** - contains aplication of the basic principles like range, random, input, type conversion.
 - **02_list_loops_dicts.py** - syntax and manipulations for lists, loops, dictionaries.
-- **03_word_counter.py** - cointains a word counter script that uses the basic principles touched in the repo.
+- **03_word_counter.py** - contains a word counter script that uses the basic principles touched in the repo.
+- **04_functions_and_more.py** - contains basic function concepts and usage along with a few practical examples.
 
 ## Contributing
 
